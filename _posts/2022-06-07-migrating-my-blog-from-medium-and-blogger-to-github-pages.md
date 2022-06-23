@@ -3,7 +3,7 @@ id: 90
 title: "Migrating Medium and Blogger blogs to self-maintained Github Pages"
 date: '2022-06-07T00:00:00+00:00'
 author: xamat
-layout: post
+## layout: post
 permalink: /migrating-my-blog
 reading_time:
     - ''

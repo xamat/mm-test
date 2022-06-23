@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Xavier Amatriain"
-  avatar : "/blog/images/xamat_twitter.jpeg"
+  avatar : "../blog/images/xamat_twitter.jpeg"
   bio    : "Cofounder-CTO at Curai Health. Former Quora VP Eng. Led ML algos at Netflix. ML, AI, eHealth, Recsys, Software. Catalan in the Valley. Runner & Ironman - amatriain.eth"
   links:
     - label: "Website"

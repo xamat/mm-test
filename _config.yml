@@ -13,15 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: AI, software, tech, and people... by X
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+description: Musings on AI, software, technology, and people. Catalan in The Valley.
+twitter_username: xamat
+github_username: xamat
+minimal_mistakes_skin: dirt
 search: true
 
 # Build settings
@@ -58,34 +55,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Xavier Amatriain"
+  avatar : "../blog/images/xamat_twitter.jpeg"
+  bio    : "Cofounder-CTO at Curai Health. Former Quora VP Eng. Led ML algos at Netflix. ML, AI, eHealth, Recsys, Software. Catalan in the Valley. Runner & Ironman - amatriain.eth"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://xavier.amatriain.net"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/xamat"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/xamat"
+    - label: "Quora"
+      icon: "fab fa-fw fa-quora"
+      url: "https://quora.com/profile/Xavier-Amatriain"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/xamat"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/xamat"
+    - label: "Quora"
+      icon: "fab fa-fw fa-quora"
+      url: "https://quora.com/profile/Xavier-Amatriain"
 
 defaults:
   # _posts
